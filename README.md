@@ -1,9 +1,20 @@
-ReelRadar - Movie Search App
+# ReelRadar - Movie Search App
 
 Developed a movie search application using React and the OMDB API.
 Implemented search functionality allowing users to search for movies by title.
 Designed a responsive user interface for optimal viewing experience across devices.
 Actively maintained and improved the project, incorporating user feedback and suggestions.
+
+# Description:
+
+ReelRadar is a React-based movie search application that utilizes the OMDB API to provide users with a streamlined movie discovery experience. With an intuitive user interface and powerful search functionality, ReelRadar allows users to search for movies by title and view basic information about the search results.
+
+# Key Functionalities
+Search Functionality: Enables users to search for movies by title, providing instant access to relevant movie information.
+
+Dynamic Rendering: Utilizes React's dynamic rendering capabilities to display search results in real-time as users type their query.
+
+Responsive Design: Features a responsive design that ensures optimal viewing experience across a variety of devices, from desktops to mobile phones
 
 
 
